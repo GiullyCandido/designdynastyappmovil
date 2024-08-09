@@ -1,0 +1,40 @@
+
+[
+    {
+      "id": 1,
+      "nombre": "Vang Studios",
+      "titulo": "SENTEZ",
+      "subtitulo": "Proyecto Tienda Sentez",
+      "nacionalidad": "Argentina",
+      "tipologia": "Tipología: Estudio interdisciplinario de diseño y arquitectura",
+      "presentacion": "Los paradigmas se expanden y el pensamiento lógico se distorsiona. Un comportamiento muy personal arraigado en la esencia de la marca: romper y construir. Siguiendo esta lógica, se propone revertir el esquema tradicional de la tienda. Aquello que toca el suelo vivirá en el techo.",
+      "rutaImagen": "../src/assets/logo-vang-studio.png",
+      "imagenes": [
+        "../src/assets/sentez-vang-s-1.jpg",
+        "../src/assets/sentez-vang-s-2.png",
+        "../src/assets/sentez-vang-s-3.png",
+        "../src/assets/sentez-vang-s-4.jpg",
+        "../src/assets/sentez-vang-s-5.png",
+        "../src/assets/sentez-vang-s-6.png"
+      ]
+    },
+    {
+        "id": 2,
+        "nombre": "Mike Kus",
+        "titulo": "Universo Creativo de Mike Kus",
+        "subtitulo": "Detalles del Artista",
+        "nacionalidad": "Británico",
+        "edad": "40 años",
+        "tipologia": "Tipología: diseñador multidisciplinario.",
+        "presentacion": "Mike Kus es un diseñador multidisciplinario con especialización en branding, diseño gráfico, diseño web, ilustración y fotografía. Su amplio rango de habilidades le permite crear experiencias visuales cohesivas y memorables en una variedad de medios y plataformas.",
+        "rutaImagen": "../src/assets/logomikekus.jpg",
+        "imagenes": [
+          "../src/assets/mikekus-1.jpg",
+          "../src/assets/mikekus-2.jpg",
+          "../src/assets/mikekus3.jpg",
+          "../src/assets/mikekus-6.jpg",
+          "../src/assets/mikekus5.jpg",
+          "../src/assets/mikekus4.jpg"
+        ]
+      }
+  ]
